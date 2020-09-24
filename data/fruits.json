@@ -1,0 +1,37 @@
+[
+    {
+        "id": "001",
+        "title": "Red Apple",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit quo iusto illum ex sequi eius ut ipsam adipisci fugit? Aliquam autem et laudantium a dolores modi, fuga accusamus cupiditate?",
+        "price": 0.99,
+        "url": "https://images.unsplash.com/photo-1575325952371-0ded5da744f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+        "id": "002",
+        "title": "Yellow Apple",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit quo iusto illum ex sequi eius ut ipsam adipisci fugit? Aliquam autem et laudantium a dolores modi, fuga accusamus cupiditate?",
+        "price": 1.50,
+        "url": "https://images.unsplash.com/photo-1414396938948-81a7045e336f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+    },
+    {
+        "id": "003",
+        "title": "Orange",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit quo iusto illum ex sequi eius ut ipsam adipisci fugit? Aliquam autem et laudantium a dolores modi, fuga accusamus cupiditate?",
+        "price": 1.00,
+        "url": "https://images.unsplash.com/photo-1592756597381-7fd35bce62fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+        "id": "004",
+        "title": "Tomato",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit quo iusto illum ex sequi eius ut ipsam adipisci fugit? Aliquam autem et laudantium a dolores modi, fuga accusamus cupiditate?",
+        "price": 0.50,
+        "url": "https://images.unsplash.com/photo-1444731961956-751ed90465a5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+    },
+    {
+        "id": "005",
+        "title": "Banana",
+        "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum reprehenderit quo iusto illum ex sequi eius ut ipsam adipisci fugit? Aliquam autem et laudantium a dolores modi, fuga accusamus cupiditate?",
+        "price": 0.25,
+        "url": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+    }
+]

@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main{
+    position: fixed;
+    font-weight: 900;
+    font-size: 5vw;
+    top: 50vh;
+    transform: translatey(-50%);
+    width: 100%;
+    text-align: center;
+}
