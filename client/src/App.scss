@@ -1,0 +1,15 @@
+// Imported The Lato Font
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import './variables.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  background-color: $primary-bg-color;
+  color: $primary-text-color;
+}
